@@ -1,0 +1,100 @@
+================================================================================
+全面质量检查报告
+================================================================================
+
+错误数量: 6
+
+错误列表:
+  标签不匹配: <input> 开始61次, 结束0次
+  onclick中调用了未定义的函数:
+    - if(): 1次
+    - deleteNode(): 1次
+    - saveNodeConfig(): 8次
+    - configureNode(): 1次
+
+警告数量: 83
+
+警告列表:
+  可能未定义的函数:
+    - 0002()
+    - 001()
+    - 250GB()
+    - 450ms()
+    - 520GB()
+    - 5分钟前()
+    - 680GB()
+    - 850GB()
+    - animateNumber()
+    - atan2()
+    - attr()
+    - calc()
+    - closest()
+    - configureNode()
+    - cos()
+    - delete()
+    - deleteNode()
+    - for()
+    - from()
+    - function()
+    - getBoundingClientRect()
+    - getData()
+    - gradient()
+    - has()
+    - manager_zhang()
+    - minmax()
+    - not()
+    - onMount()
+    - process()
+    - rgba()
+    - rotate()
+    - saveNodeConfig()
+    - scale()
+    - scaleY()
+    - setData()
+    - sin()
+    - startsWith()
+    - switch()
+    - toLocaleTimeString()
+    - translate()
+    - translateX()
+    - translateY()
+    - while()
+    - 一致性()
+    - 业务查询()
+    - 中优先级()
+    - 人工接管()
+    - 会话超时时间()
+    - 低优先级()
+    - 保存功能()
+    - 全量训练()
+    - 准确性()
+    - 准确率()
+    - 准确率下降阈值()
+    - 准确率对比()
+    - 准确率趋势()
+    - 及时性()
+    - 召回率()
+    - 各服务平均耗时()
+    - 响应时间阈值()
+    - 增量训练()
+    - 完整性()
+    - 密码有效期()
+    - 对话管理()
+    - 导入成功()
+    - 开始执行流程()
+    - 数据保留期限()
+    - 查询条件()
+    - 查询额度()
+    - 灰度比例()
+    - 磁盘使用率阈值()
+    - 精确率()
+    - 语音数据存储()
+    - 迁移学习()
+    - 金融业务数据库()
+    - 高优先级()
+  可能未定义的CSS类: 5个
+    - .config-menu-item
+    - .config-section
+    - .flow-node-item
+    - .node-input
+    - .node-output
